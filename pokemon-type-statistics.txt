@@ -1,0 +1,4919 @@
+normal+flying: 27 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 82 Pokemons:
+		flying+rock (18 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+rock (9 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		rock+electric (3 Pokemons)
+		ghost+electric (1 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+ice (2 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 79 Pokemons:
+		ground+bug (2 Pokemons)
+		ground+grass (1 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+ghost (1 Pokemons)
+		ghost+grass (12 Pokemons)
+		grass (39 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 29 Pokemons:
+		ground (15 Pokemons)
+		ground+ghost (4 Pokemons)
+		ghost (10 Pokemons)
+
+normal: 67 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 5 Pokemons:
+		fighting+steel (3 Pokemons)
+		fighting+rock (1 Pokemons)
+		fighting+ghost (1 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+normal+fairy: 5 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 61 Pokemons:
+		flying+steel (2 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+steel (5 Pokemons)
+		rock+steel (7 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 19 Pokemons:
+		ghost+dark (3 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 24 Pokemons:
+		ghost (10 Pokemons)
+		ghost+dragon (2 Pokemons)
+		dragon (12 Pokemons)
+
+normal+psychic: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 14 Pokemons:
+		rock+dark (2 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+dark (3 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 10 Pokemons:
+		ghost (10 Pokemons)
+
+normal+water: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 15 Pokemons:
+		ghost+grass (12 Pokemons)
+		steel+grass (3 Pokemons)
+	Strong (0.5x) against 38 Pokemons:
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 10 Pokemons:
+		ghost (10 Pokemons)
+
+normal+grass: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 29 Pokemons:
+		fighting+steel (3 Pokemons)
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		poison+ghost (4 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+ghost (1 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+ice (2 Pokemons)
+	Strong (0.5x) against 101 Pokemons:
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+		ghost+water (2 Pokemons)
+		water (66 Pokemons)
+		water+electric (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 10 Pokemons:
+		ghost (10 Pokemons)
+
+normal+ground: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 12 Pokemons:
+		ghost+grass (12 Pokemons)
+	Strong (0.5x) against 38 Pokemons:
+		poison (16 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+electric (3 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 53 Pokemons:
+		ghost (10 Pokemons)
+		ghost+electric (1 Pokemons)
+		electric (42 Pokemons)
+
+normal+fire: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 68 Pokemons:
+		fighting+rock (1 Pokemons)
+		flying+rock (18 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+rock (9 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		rock+electric (3 Pokemons)
+		ghost+water (2 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 130 Pokemons:
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+ghost (1 Pokemons)
+		bug+fairy (3 Pokemons)
+		ghost+ice (1 Pokemons)
+		ghost+steel (4 Pokemons)
+		ghost+grass (12 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel (5 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		grass (39 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 10 Pokemons:
+		ghost (10 Pokemons)
+
+normal+electric: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 18 Pokemons:
+		ground+rock (9 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+ghost (4 Pokemons)
+	Strong (0.5x) against 7 Pokemons:
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		flying (2 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 10 Pokemons:
+		ghost (10 Pokemons)
+
+normal+fighting: 4 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 11 Pokemons:
+		fighting+ghost (1 Pokemons)
+		flying+ghost (3 Pokemons)
+		ghost+psychic (3 Pokemons)
+		ghost+fairy (4 Pokemons)
+	Strong (0.5x) against 28 Pokemons:
+		rock (14 Pokemons)
+		rock+dark (2 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+normal+dragon: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 17 Pokemons:
+		fighting+steel (3 Pokemons)
+		rock+fairy (3 Pokemons)
+		ghost+fairy (4 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+ice (2 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 10 Pokemons:
+		ghost (10 Pokemons)
+
+normal+dark: 3 Pokemons
+	Very weak (4x) against 64 Pokemons:
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+psychic (6 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+rock (1 Pokemons)
+		fighting+flying (1 Pokemons)
+		fighting+ice (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+		fighting+ghost (1 Pokemons)
+	Weak (2x) against 8 Pokemons:
+		rock+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 54 Pokemons:
+		ghost (10 Pokemons)
+		ghost+psychic (3 Pokemons)
+		psychic (41 Pokemons)
+
+fighting: 22 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 184 Pokemons:
+		fighting+psychic (6 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+water (7 Pokemons)
+		flying+electric (6 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying+grass (7 Pokemons)
+		flying+ground (4 Pokemons)
+		flying+ghost (3 Pokemons)
+		flying (2 Pokemons)
+		ground+psychic (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		ghost+psychic (3 Pokemons)
+		ghost+fairy (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		water+psychic (6 Pokemons)
+		water+fairy (4 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		electric+fairy (2 Pokemons)
+		electric+psychic (1 Pokemons)
+		psychic (41 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+dragon (5 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+		electric+flying (0 Pokemons)
+	Strong (0.5x) against 28 Pokemons:
+		rock (14 Pokemons)
+		rock+dark (2 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+fighting+water: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 79 Pokemons:
+		flying+water (7 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+grass (7 Pokemons)
+		poison+grass (15 Pokemons)
+		bug+grass (6 Pokemons)
+		ghost+grass (12 Pokemons)
+		water+psychic (6 Pokemons)
+		water+fairy (4 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		psychic+dragon (5 Pokemons)
+		dragon+fairy (1 Pokemons)
+	Strong (0.5x) against 132 Pokemons:
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+ice (2 Pokemons)
+		bug+fire (2 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		water+ice (6 Pokemons)
+		water+dark (8 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+fighting+bug: 4 Pokemons
+	Very weak (4x) against 125 Pokemons:
+		normal+flying (27 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+water (7 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+electric (6 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying+grass (7 Pokemons)
+		flying+dark (5 Pokemons)
+		flying+ground (4 Pokemons)
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		flying (2 Pokemons)
+		electric+flying (0 Pokemons)
+	Weak (2x) against 42 Pokemons:
+		poison+fire (3 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		ghost+fire (6 Pokemons)
+		ghost+fairy (4 Pokemons)
+		water+fairy (4 Pokemons)
+		electric+fairy (2 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Strong (0.5x) against 67 Pokemons:
+		fighting+dark (3 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+fighting+fire: 7 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 48 Pokemons:
+		flying+fire (7 Pokemons)
+		flying+water (7 Pokemons)
+		flying+dragon (8 Pokemons)
+		poison+water (6 Pokemons)
+		ghost+water (2 Pokemons)
+		fire+psychic (3 Pokemons)
+		water+psychic (6 Pokemons)
+		water+fairy (4 Pokemons)
+		psychic+dragon (5 Pokemons)
+	Strong (0.5x) against 104 Pokemons:
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		steel (5 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		fire+dark (4 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+ice (3 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 18 Pokemons:
+		bug (18 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+fighting+grass: 3 Pokemons
+	Very weak (4x) against 125 Pokemons:
+		normal+flying (27 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+water (7 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+electric (6 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying+grass (7 Pokemons)
+		flying+dark (5 Pokemons)
+		flying+ground (4 Pokemons)
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		flying (2 Pokemons)
+		electric+flying (0 Pokemons)
+	Weak (2x) against 83 Pokemons:
+		fighting+poison (2 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+bug (13 Pokemons)
+		poison (16 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+dragon (2 Pokemons)
+		poison+fire (3 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		ghost+fire (6 Pokemons)
+		fire+psychic (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		psychic+dragon (5 Pokemons)
+		dragon+fairy (1 Pokemons)
+	Strong (0.5x) against 161 Pokemons:
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+electric (3 Pokemons)
+		water (66 Pokemons)
+		water+electric (3 Pokemons)
+		water+dark (8 Pokemons)
+		grass+dark (3 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+fighting+psychic: 6 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 24 Pokemons:
+		flying+psychic (7 Pokemons)
+		ghost+dark (3 Pokemons)
+		ghost+steel (4 Pokemons)
+		ghost+psychic (3 Pokemons)
+		psychic+fairy (7 Pokemons)
+	Strong (0.5x) against 37 Pokemons:
+		fighting (22 Pokemons)
+		fighting+rock (1 Pokemons)
+		rock (14 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+fighting+steel: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 21 Pokemons:
+		flying+fire (7 Pokemons)
+		poison+fire (3 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		fire+psychic (3 Pokemons)
+	Strong (0.5x) against 143 Pokemons:
+		normal (67 Pokemons)
+		normal+grass (2 Pokemons)
+		normal+dragon (1 Pokemons)
+		normal+dark (3 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		steel (5 Pokemons)
+		steel+dragon (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+ice (3 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 51 Pokemons:
+		poison+bug (13 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		bug (18 Pokemons)
+		rock+poison (0 Pokemons)
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+fighting+poison: 2 Pokemons
+	Very weak (4x) against 93 Pokemons:
+		normal+psychic (3 Pokemons)
+		fighting+psychic (6 Pokemons)
+		flying+psychic (7 Pokemons)
+		ground+psychic (2 Pokemons)
+		rock+psychic (2 Pokemons)
+		ghost+psychic (3 Pokemons)
+		steel+psychic (9 Pokemons)
+		fire+psychic (3 Pokemons)
+		water+psychic (6 Pokemons)
+		electric+psychic (1 Pokemons)
+		psychic (41 Pokemons)
+		psychic+ice (2 Pokemons)
+		psychic+dragon (5 Pokemons)
+		psychic+dark (3 Pokemons)
+	Weak (2x) against 18 Pokemons:
+		flying+poison (3 Pokemons)
+		flying+ground (4 Pokemons)
+		flying+ghost (3 Pokemons)
+		poison+ground (2 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+ghost (4 Pokemons)
+	Strong (0.5x) against 85 Pokemons:
+		fighting+grass (3 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+grass (2 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 18 Pokemons:
+		bug (18 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+fighting+dark: 3 Pokemons
+	Very weak (4x) against 59 Pokemons:
+		normal+fairy (5 Pokemons)
+		flying+fairy (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		ghost+fairy (4 Pokemons)
+		steel+fairy (5 Pokemons)
+		water+fairy (4 Pokemons)
+		grass+fairy (5 Pokemons)
+		electric+fairy (2 Pokemons)
+		psychic+fairy (7 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Weak (2x) against 7 Pokemons:
+		fighting+bug (4 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+flying (1 Pokemons)
+	Strong (0.5x) against 31 Pokemons:
+		rock (14 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+psychic (2 Pokemons)
+		ghost (10 Pokemons)
+		ghost+psychic (3 Pokemons)
+	Very strong (0.25x) against 15 Pokemons:
+		psychic+dark (3 Pokemons)
+		dark (12 Pokemons)
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
+fighting+rock: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 21 Pokemons:
+		fighting+psychic (6 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+ghost (1 Pokemons)
+		poison+ground (2 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+ghost (4 Pokemons)
+		ghost+steel (4 Pokemons)
+	Strong (0.5x) against 177 Pokemons:
+		normal (67 Pokemons)
+		normal+fire (2 Pokemons)
+		normal+dark (3 Pokemons)
+		poison+bug (13 Pokemons)
+		poison+fire (3 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		bug (18 Pokemons)
+		bug+fire (2 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+fighting+flying: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 10 Pokemons:
+		flying+electric (6 Pokemons)
+		ghost+electric (1 Pokemons)
+		electric+fairy (2 Pokemons)
+		electric+psychic (1 Pokemons)
+		electric+flying (0 Pokemons)
+	Strong (0.5x) against 96 Pokemons:
+		fighting (22 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+dark (3 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 20 Pokemons:
+		ground+bug (2 Pokemons)
+		bug (18 Pokemons)
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+fighting+ice: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 28 Pokemons:
+		poison+fire (3 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		ghost+steel (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		water+psychic (6 Pokemons)
+		water+fairy (4 Pokemons)
+	Strong (0.5x) against 29 Pokemons:
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+fighting+dragon: 3 Pokemons
+	Very weak (4x) against 59 Pokemons:
+		normal+fairy (5 Pokemons)
+		flying+fairy (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		ghost+fairy (4 Pokemons)
+		steel+fairy (5 Pokemons)
+		water+fairy (4 Pokemons)
+		grass+fairy (5 Pokemons)
+		electric+fairy (2 Pokemons)
+		psychic+fairy (7 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 59 Pokemons:
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+electric (3 Pokemons)
+		fire+dark (4 Pokemons)
+		water+dark (8 Pokemons)
+		grass+dark (3 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+fighting+ghost: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 15 Pokemons:
+		fighting+rock (1 Pokemons)
+		rock (14 Pokemons)
+	Very strong (0.25x) against 22 Pokemons:
+		fighting+bug (4 Pokemons)
+		bug (18 Pokemons)
+	No effect (0x) against 93 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+
+flying+fire: 7 Pokemons
+	Very weak (4x) against 82 Pokemons:
+		fighting+rock (1 Pokemons)
+		flying+rock (18 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+rock (9 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		rock+electric (3 Pokemons)
+		rock+poison (0 Pokemons)
+	Weak (2x) against 6 Pokemons:
+		fire+electric (1 Pokemons)
+		water+electric (3 Pokemons)
+		electric+dragon (2 Pokemons)
+	Strong (0.5x) against 74 Pokemons:
+		fighting (22 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+steel (3 Pokemons)
+		ground+steel (5 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel (5 Pokemons)
+		steel+grass (3 Pokemons)
+		grass+fairy (5 Pokemons)
+	Very strong (0.25x) against 66 Pokemons:
+		ground+bug (2 Pokemons)
+		ground+grass (1 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+flying+bug: 14 Pokemons
+	Very weak (4x) against 76 Pokemons:
+		fighting+rock (1 Pokemons)
+		flying+rock (18 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+rock (9 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		rock+electric (3 Pokemons)
+		rock+poison (0 Pokemons)
+	Weak (2x) against 20 Pokemons:
+		flying+electric (6 Pokemons)
+		flying+steel (2 Pokemons)
+		ghost+electric (1 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+ice (2 Pokemons)
+		fire+electric (1 Pokemons)
+		electric+fairy (2 Pokemons)
+		electric+flying (0 Pokemons)
+	Strong (0.5x) against 30 Pokemons:
+		fighting+bug (4 Pokemons)
+		ground+bug (2 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+	Very strong (0.25x) against 65 Pokemons:
+		fighting (22 Pokemons)
+		fighting+grass (3 Pokemons)
+		ground+grass (1 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+flying+poison: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 89 Pokemons:
+		flying+rock (18 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+electric (1 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+electric (3 Pokemons)
+		ghost+electric (1 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel+ice (2 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 55 Pokemons:
+		fighting+poison (2 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+bug (13 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 95 Pokemons:
+		fighting (22 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+grass (3 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+grass (1 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+flying+water: 7 Pokemons
+	Very weak (4x) against 71 Pokemons:
+		normal+electric (2 Pokemons)
+		flying+electric (6 Pokemons)
+		bug+electric (5 Pokemons)
+		ghost+electric (1 Pokemons)
+		steel+electric (5 Pokemons)
+		water+electric (3 Pokemons)
+		grass+electric (1 Pokemons)
+		electric (42 Pokemons)
+		electric+dragon (2 Pokemons)
+		electric+fairy (2 Pokemons)
+		electric+ice (1 Pokemons)
+		electric+psychic (1 Pokemons)
+		electric+flying (0 Pokemons)
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 105 Pokemons:
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+fire (4 Pokemons)
+		bug (18 Pokemons)
+		bug+water (6 Pokemons)
+		bug+fire (2 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+flying+rock: 18 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 54 Pokemons:
+		ground+rock (9 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+electric (1 Pokemons)
+		rock+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+dragon (1 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 124 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying (2 Pokemons)
+		poison+bug (13 Pokemons)
+		poison+fire (3 Pokemons)
+		ground+bug (2 Pokemons)
+		bug (18 Pokemons)
+		bug+fire (2 Pokemons)
+		fire (31 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+flying+ice: 2 Pokemons
+	Very weak (4x) against 51 Pokemons:
+		fighting+rock (1 Pokemons)
+		poison+rock (1 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		rock+electric (3 Pokemons)
+		rock+poison (0 Pokemons)
+	Weak (2x) against 39 Pokemons:
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		fire+electric (1 Pokemons)
+		water+electric (3 Pokemons)
+		electric+ice (1 Pokemons)
+	Strong (0.5x) against 66 Pokemons:
+		ground+bug (2 Pokemons)
+		ground+grass (1 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+flying+electric: 6 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 15 Pokemons:
+		ground+rock (9 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+electric (3 Pokemons)
+		electric+ice (1 Pokemons)
+	Strong (0.5x) against 121 Pokemons:
+		fighting (22 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+grass (7 Pokemons)
+		flying+steel (2 Pokemons)
+		flying (2 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+grass (1 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+flying+dragon: 8 Pokemons
+	Very weak (4x) against 37 Pokemons:
+		flying+ice (2 Pokemons)
+		ground+ice (3 Pokemons)
+		rock+ice (2 Pokemons)
+		ghost+ice (1 Pokemons)
+		steel+ice (2 Pokemons)
+		water+ice (6 Pokemons)
+		electric+ice (1 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Weak (2x) against 17 Pokemons:
+		rock+steel (7 Pokemons)
+		rock+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		electric+fairy (2 Pokemons)
+	Strong (0.5x) against 76 Pokemons:
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+grass (3 Pokemons)
+		ground+bug (2 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+water (6 Pokemons)
+		bug+fire (2 Pokemons)
+		water+grass (3 Pokemons)
+	Very strong (0.25x) against 40 Pokemons:
+		ground+grass (1 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+flying+fairy: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 49 Pokemons:
+		flying+steel (2 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+steel (5 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+ice (2 Pokemons)
+		fire+electric (1 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 76 Pokemons:
+		fighting+grass (3 Pokemons)
+		fighting+dark (3 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+dragon (2 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 49 Pokemons:
+		fighting (22 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+dragon (3 Pokemons)
+		ground+bug (2 Pokemons)
+		bug (18 Pokemons)
+	No effect (0x) against 37 Pokemons:
+		ground (15 Pokemons)
+		ground+dragon (10 Pokemons)
+		dragon (12 Pokemons)
+
+flying+psychic: 7 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 25 Pokemons:
+		rock+dark (2 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+psychic (2 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		electric+psychic (1 Pokemons)
+	Strong (0.5x) against 52 Pokemons:
+		fighting+grass (3 Pokemons)
+		fighting+psychic (6 Pokemons)
+		ground+grass (1 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+	Very strong (0.25x) against 22 Pokemons:
+		fighting (22 Pokemons)
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+flying+grass: 7 Pokemons
+	Very weak (4x) against 29 Pokemons:
+		flying+ice (2 Pokemons)
+		ghost+ice (1 Pokemons)
+		steel+ice (2 Pokemons)
+		electric+ice (1 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+	Weak (2x) against 10 Pokemons:
+		flying+electric (6 Pokemons)
+		flying+steel (2 Pokemons)
+		steel+fire (1 Pokemons)
+		fire+electric (1 Pokemons)
+		electric+flying (0 Pokemons)
+	Strong (0.5x) against 107 Pokemons:
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+grass (3 Pokemons)
+		ground+water (10 Pokemons)
+		water (66 Pokemons)
+		water+grass (3 Pokemons)
+	Very strong (0.25x) against 40 Pokemons:
+		ground+grass (1 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+flying+dark: 5 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 12 Pokemons:
+		rock+dark (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		electric+fairy (2 Pokemons)
+	Strong (0.5x) against 75 Pokemons:
+		ground+grass (1 Pokemons)
+		ground+ghost (4 Pokemons)
+		ghost (10 Pokemons)
+		ghost+grass (12 Pokemons)
+		ghost+psychic (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 58 Pokemons:
+		ground (15 Pokemons)
+		ground+psychic (2 Pokemons)
+		psychic (41 Pokemons)
+
+flying+ground: 4 Pokemons
+	Very weak (4x) against 35 Pokemons:
+		flying+ice (2 Pokemons)
+		ground+ice (3 Pokemons)
+		ghost+ice (1 Pokemons)
+		water+ice (6 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 79 Pokemons:
+		fighting (22 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+poison (2 Pokemons)
+		poison+bug (13 Pokemons)
+		poison (16 Pokemons)
+		poison+ground (2 Pokemons)
+		ground+bug (2 Pokemons)
+		bug (18 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 58 Pokemons:
+		ground (15 Pokemons)
+		ground+electric (1 Pokemons)
+		electric (42 Pokemons)
+
+flying+steel: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 65 Pokemons:
+		normal+electric (2 Pokemons)
+		flying+electric (6 Pokemons)
+		ground+electric (1 Pokemons)
+		ghost+electric (1 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fire (1 Pokemons)
+		fire+electric (1 Pokemons)
+		water+electric (3 Pokemons)
+		electric (42 Pokemons)
+		electric+dragon (2 Pokemons)
+		electric+psychic (1 Pokemons)
+		electric+flying (0 Pokemons)
+	Strong (0.5x) against 68 Pokemons:
+		normal+fairy (5 Pokemons)
+		normal+grass (2 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+grass (7 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+dragon (2 Pokemons)
+		psychic+fairy (7 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 94 Pokemons:
+		poison+grass (15 Pokemons)
+		poison+bug (13 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+grass (1 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 33 Pokemons:
+		poison (16 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+
+flying+ghost: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 6 Pokemons:
+		normal+electric (2 Pokemons)
+		rock+dark (2 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 81 Pokemons:
+		normal+grass (2 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+bug (13 Pokemons)
+		ground+grass (1 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+	Very strong (0.25x) against 24 Pokemons:
+		fighting+bug (4 Pokemons)
+		ground+bug (2 Pokemons)
+		bug (18 Pokemons)
+	No effect (0x) against 109 Pokemons:
+		normal (67 Pokemons)
+		normal+ground (1 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		ground (15 Pokemons)
+
+flying: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 143 Pokemons:
+		normal+electric (2 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+electric (6 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+electric (1 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		rock+electric (3 Pokemons)
+		ghost+electric (1 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+ice (2 Pokemons)
+		fire+electric (1 Pokemons)
+		water+electric (3 Pokemons)
+		electric (42 Pokemons)
+		electric+dragon (2 Pokemons)
+		electric+fairy (2 Pokemons)
+		electric+ice (1 Pokemons)
+		electric+psychic (1 Pokemons)
+		electric+flying (0 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 95 Pokemons:
+		fighting (22 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+grass (3 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+grass (1 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+poison+grass: 15 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 29 Pokemons:
+		flying+poison (3 Pokemons)
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		poison+fire (3 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+ice (2 Pokemons)
+	Strong (0.5x) against 107 Pokemons:
+		fighting+water (3 Pokemons)
+		fighting+grass (3 Pokemons)
+		water (66 Pokemons)
+		water+electric (3 Pokemons)
+		water+fairy (4 Pokemons)
+		water+grass (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+electric (1 Pokemons)
+		electric+fairy (2 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 39 Pokemons:
+		grass (39 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+poison+bug: 13 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 54 Pokemons:
+		fighting+rock (1 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ground (4 Pokemons)
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		poison+fire (3 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+fire (4 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+steel (7 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 31 Pokemons:
+		bug+grass (6 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 64 Pokemons:
+		fighting (22 Pokemons)
+		fighting+grass (3 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+poison: 16 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 89 Pokemons:
+		normal+ground (1 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+ice (3 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+		rock+psychic (2 Pokemons)
+		ghost+psychic (3 Pokemons)
+		steel+psychic (9 Pokemons)
+	Strong (0.5x) against 73 Pokemons:
+		fighting+grass (3 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass (39 Pokemons)
+		grass+fairy (5 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+poison+ground: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 6 Pokemons:
+		flying+ground (4 Pokemons)
+		ground+bug (2 Pokemons)
+	Strong (0.5x) against 46 Pokemons:
+		fighting+poison (2 Pokemons)
+		fighting+rock (1 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+fairy (3 Pokemons)
+		rock+electric (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		electric+fairy (2 Pokemons)
+		fairy (17 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 16 Pokemons:
+		poison (16 Pokemons)
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+poison+water: 6 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 69 Pokemons:
+		fighting+fire (7 Pokemons)
+		poison+fire (3 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		water+fairy (4 Pokemons)
+		ice+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+poison+ghost: 4 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 13 Pokemons:
+		normal+ground (1 Pokemons)
+		poison+dark (5 Pokemons)
+		ground+dark (3 Pokemons)
+		rock+dark (2 Pokemons)
+		steel+dark (2 Pokemons)
+		dark+poison (0 Pokemons)
+	Strong (0.5x) against 80 Pokemons:
+		normal+fairy (5 Pokemons)
+		normal+grass (2 Pokemons)
+		fighting+grass (3 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass (39 Pokemons)
+		grass+fairy (5 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 53 Pokemons:
+		fighting+bug (4 Pokemons)
+		fighting+poison (2 Pokemons)
+		poison+bug (13 Pokemons)
+		poison (16 Pokemons)
+		bug (18 Pokemons)
+	No effect (0x) against 93 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+
+poison+dark: 5 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 3 Pokemons:
+		ground+dark (3 Pokemons)
+	Strong (0.5x) against 74 Pokemons:
+		poison+ghost (4 Pokemons)
+		ghost (10 Pokemons)
+		ghost+grass (12 Pokemons)
+		ghost+psychic (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
+poison+dragon: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 16 Pokemons:
+		ground+steel (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel+ice (2 Pokemons)
+	Strong (0.5x) against 13 Pokemons:
+		fighting+grass (3 Pokemons)
+		bug+grass (6 Pokemons)
+		water+grass (3 Pokemons)
+		grass+electric (1 Pokemons)
+	Very strong (0.25x) against 39 Pokemons:
+		grass (39 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+poison+fire: 3 Pokemons
+	Very weak (4x) against 65 Pokemons:
+		normal+ground (1 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+	Weak (2x) against 62 Pokemons:
+		fighting+rock (1 Pokemons)
+		flying+rock (18 Pokemons)
+		poison+water (6 Pokemons)
+		poison+rock (1 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+electric (3 Pokemons)
+		ghost+water (2 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 80 Pokemons:
+		fighting+bug (4 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+ice (1 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+bug (13 Pokemons)
+		bug+steel (7 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel (5 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		grass+ice (3 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Very strong (0.25x) against 88 Pokemons:
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass (39 Pokemons)
+		grass+fairy (5 Pokemons)
+		fairy (17 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+poison+rock: 1 Pokemons
+	Very weak (4x) against 76 Pokemons:
+		normal+ground (1 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+ice (3 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+	Weak (2x) against 45 Pokemons:
+		fighting+steel (3 Pokemons)
+		rock+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+dragon (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 149 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fairy (5 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying (2 Pokemons)
+		poison+bug (13 Pokemons)
+		poison+fire (3 Pokemons)
+		bug (18 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		fire (31 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 16 Pokemons:
+		poison (16 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+ground: 15 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 104 Pokemons:
+		normal+grass (2 Pokemons)
+		fighting+grass (3 Pokemons)
+		flying+water (7 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+grass (7 Pokemons)
+		ground+grass (1 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+water (6 Pokemons)
+		ghost+grass (12 Pokemons)
+		water+grass (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+dragon (2 Pokemons)
+	Strong (0.5x) against 34 Pokemons:
+		poison (16 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+electric (3 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+ground+rock: 9 Pokemons
+	Very weak (4x) against 196 Pokemons:
+		normal+water (1 Pokemons)
+		normal+grass (2 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+grass (3 Pokemons)
+		poison+grass (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+grass (1 Pokemons)
+		rock+grass (2 Pokemons)
+		ghost+water (2 Pokemons)
+		ghost+grass (12 Pokemons)
+		steel+grass (3 Pokemons)
+		water (66 Pokemons)
+		water+psychic (6 Pokemons)
+		water+fairy (4 Pokemons)
+		water+dragon (2 Pokemons)
+		water+grass (3 Pokemons)
+		water+dark (8 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+electric (1 Pokemons)
+		grass+dragon (2 Pokemons)
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 121 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		normal+electric (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+electric (6 Pokemons)
+		flying (2 Pokemons)
+		poison+fire (3 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+electric (3 Pokemons)
+		fire (31 Pokemons)
+		fire+electric (1 Pokemons)
+		electric+flying (0 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 16 Pokemons:
+		poison (16 Pokemons)
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+ground+water: 10 Pokemons
+	Very weak (4x) against 110 Pokemons:
+		normal+grass (2 Pokemons)
+		fighting+grass (3 Pokemons)
+		flying+grass (7 Pokemons)
+		poison+grass (15 Pokemons)
+		ground+grass (1 Pokemons)
+		rock+grass (2 Pokemons)
+		bug+grass (6 Pokemons)
+		ghost+grass (12 Pokemons)
+		steel+grass (3 Pokemons)
+		water+grass (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+electric (1 Pokemons)
+		grass+dragon (2 Pokemons)
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 88 Pokemons:
+		poison (16 Pokemons)
+		poison+fire (3 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+electric (3 Pokemons)
+		steel+electric (5 Pokemons)
+		steel (5 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+electric (1 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+ground+steel: 5 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 23 Pokemons:
+		flying+fire (7 Pokemons)
+		flying+water (7 Pokemons)
+		bug+water (6 Pokemons)
+		water+grass (3 Pokemons)
+	Strong (0.5x) against 106 Pokemons:
+		normal+fairy (5 Pokemons)
+		normal+electric (2 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+fairy (2 Pokemons)
+		poison+dragon (2 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+dragon (1 Pokemons)
+		electric+dragon (2 Pokemons)
+		electric+fairy (2 Pokemons)
+		electric+psychic (1 Pokemons)
+		psychic+fairy (7 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 18 Pokemons:
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+electric (3 Pokemons)
+		rock+poison (0 Pokemons)
+	No effect (0x) against 58 Pokemons:
+		poison (16 Pokemons)
+		electric (42 Pokemons)
+
+ground+ice: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 6 Pokemons:
+		bug+water (6 Pokemons)
+	Strong (0.5x) against 16 Pokemons:
+		poison (16 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+ground+bug: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 106 Pokemons:
+		normal+flying (27 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+water (7 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+electric (6 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+ground (4 Pokemons)
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		flying (2 Pokemons)
+		electric+flying (0 Pokemons)
+	Strong (0.5x) against 21 Pokemons:
+		fighting+poison (2 Pokemons)
+		poison (16 Pokemons)
+		poison+ground (2 Pokemons)
+		ground+electric (1 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+ground+fire: 4 Pokemons
+	Very weak (4x) against 124 Pokemons:
+		normal+water (1 Pokemons)
+		fighting+water (3 Pokemons)
+		flying+water (7 Pokemons)
+		ground+water (10 Pokemons)
+		bug+water (6 Pokemons)
+		ghost+water (2 Pokemons)
+		water (66 Pokemons)
+		water+psychic (6 Pokemons)
+		water+ice (6 Pokemons)
+		water+fairy (4 Pokemons)
+		water+dragon (2 Pokemons)
+		water+grass (3 Pokemons)
+		water+dark (8 Pokemons)
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 115 Pokemons:
+		poison+bug (13 Pokemons)
+		poison (16 Pokemons)
+		poison+fire (3 Pokemons)
+		bug (18 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+electric (5 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel (5 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+electric (1 Pokemons)
+		electric+fairy (2 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+ground+dragon: 10 Pokemons
+	Very weak (4x) against 36 Pokemons:
+		fighting+ice (1 Pokemons)
+		flying+ice (2 Pokemons)
+		ground+ice (3 Pokemons)
+		ghost+ice (1 Pokemons)
+		water+ice (6 Pokemons)
+		grass+ice (3 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Weak (2x) against 10 Pokemons:
+		flying+fairy (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass+fairy (5 Pokemons)
+	Strong (0.5x) against 70 Pokemons:
+		poison (16 Pokemons)
+		poison+fire (3 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+electric (3 Pokemons)
+		fire (31 Pokemons)
+		fire+electric (1 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+ground+psychic: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 11 Pokemons:
+		flying+dark (5 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass+dark (3 Pokemons)
+	Strong (0.5x) against 62 Pokemons:
+		fighting (22 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+rock (1 Pokemons)
+		poison (16 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+electric (3 Pokemons)
+		electric+psychic (1 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+ground+grass: 1 Pokemons
+	Very weak (4x) against 30 Pokemons:
+		fighting+ice (1 Pokemons)
+		flying+ice (2 Pokemons)
+		ghost+ice (1 Pokemons)
+		grass+ice (3 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+	Weak (2x) against 126 Pokemons:
+		normal+flying (27 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+electric (6 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying+grass (7 Pokemons)
+		flying+dark (5 Pokemons)
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		flying (2 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+ghost (1 Pokemons)
+		bug+fairy (3 Pokemons)
+		electric+flying (0 Pokemons)
+	Strong (0.5x) against 42 Pokemons:
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+electric (1 Pokemons)
+		rock (14 Pokemons)
+		rock+electric (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+ground+dark: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 21 Pokemons:
+		fighting+bug (4 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+fairy (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+fairy (5 Pokemons)
+	Strong (0.5x) against 61 Pokemons:
+		poison (16 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+dark (5 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+electric (3 Pokemons)
+		ghost (10 Pokemons)
+		ghost+electric (1 Pokemons)
+		ghost+psychic (3 Pokemons)
+		rock+poison (0 Pokemons)
+		dark+poison (0 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 84 Pokemons:
+		electric (42 Pokemons)
+		electric+psychic (1 Pokemons)
+		psychic (41 Pokemons)
+
+ground+electric: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 85 Pokemons:
+		normal+grass (2 Pokemons)
+		fighting+grass (3 Pokemons)
+		flying+ground (4 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+grass (1 Pokemons)
+		bug+grass (6 Pokemons)
+		ghost+grass (12 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+dragon (2 Pokemons)
+	Strong (0.5x) against 76 Pokemons:
+		flying+poison (3 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+steel (2 Pokemons)
+		flying (2 Pokemons)
+		poison (16 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+electric (3 Pokemons)
+		steel+electric (5 Pokemons)
+		steel (5 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 42 Pokemons:
+		electric (42 Pokemons)
+
+ground+ghost: 4 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 10 Pokemons:
+		normal+grass (2 Pokemons)
+		flying+dark (5 Pokemons)
+		grass+dark (3 Pokemons)
+	Strong (0.5x) against 19 Pokemons:
+		fighting+rock (1 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+electric (3 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 18 Pokemons:
+		fighting+poison (2 Pokemons)
+		poison (16 Pokemons)
+	No effect (0x) against 137 Pokemons:
+		normal (67 Pokemons)
+		normal+electric (2 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		electric (42 Pokemons)
+
+rock+water: 10 Pokemons
+	Very weak (4x) against 94 Pokemons:
+		normal+grass (2 Pokemons)
+		fighting+grass (3 Pokemons)
+		poison+grass (15 Pokemons)
+		ground+grass (1 Pokemons)
+		rock+grass (2 Pokemons)
+		ghost+grass (12 Pokemons)
+		steel+grass (3 Pokemons)
+		water+grass (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+electric (1 Pokemons)
+		grass+dragon (2 Pokemons)
+	Weak (2x) against 6 Pokemons:
+		fighting+water (3 Pokemons)
+		fighting+dragon (3 Pokemons)
+	Strong (0.5x) against 61 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+ice (2 Pokemons)
+		flying (2 Pokemons)
+		poison+fire (3 Pokemons)
+		ice (15 Pokemons)
+	Very strong (0.25x) against 31 Pokemons:
+		fire (31 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+rock: 14 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 156 Pokemons:
+		normal+ground (1 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+psychic (6 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+rock (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+		fighting+ghost (1 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+		rock+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+dragon (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 75 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+poison (3 Pokemons)
+		flying (2 Pokemons)
+		poison+fire (3 Pokemons)
+		fire (31 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+rock+bug: 5 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 40 Pokemons:
+		fighting+water (3 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+rock (1 Pokemons)
+		ground+steel (5 Pokemons)
+		rock+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+dragon (1 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+rock+fire: 1 Pokemons
+	Very weak (4x) against 180 Pokemons:
+		normal+water (1 Pokemons)
+		normal+ground (1 Pokemons)
+		fighting+water (3 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		poison+water (6 Pokemons)
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+		rock+water (10 Pokemons)
+		ghost+water (2 Pokemons)
+		steel+water (1 Pokemons)
+		water (66 Pokemons)
+		water+psychic (6 Pokemons)
+		water+electric (3 Pokemons)
+		water+fairy (4 Pokemons)
+		water+dragon (2 Pokemons)
+		water+grass (3 Pokemons)
+		water+dark (8 Pokemons)
+	Weak (2x) against 4 Pokemons:
+		fighting+rock (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+	Strong (0.5x) against 114 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying (2 Pokemons)
+		poison+bug (13 Pokemons)
+		poison+fire (3 Pokemons)
+		bug (18 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Very strong (0.25x) against 31 Pokemons:
+		fire (31 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+rock+dark: 2 Pokemons
+	Very weak (4x) against 64 Pokemons:
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+psychic (6 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+rock (1 Pokemons)
+		fighting+flying (1 Pokemons)
+		fighting+ice (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+		fighting+ghost (1 Pokemons)
+	Weak (2x) against 10 Pokemons:
+		ground+dark (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 123 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+psychic (3 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying+dark (5 Pokemons)
+		flying+ghost (3 Pokemons)
+		flying (2 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+fire (3 Pokemons)
+		ghost (10 Pokemons)
+		ghost+fire (6 Pokemons)
+		ghost+psychic (3 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
+rock+steel: 7 Pokemons
+	Very weak (4x) against 126 Pokemons:
+		normal+ground (1 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+psychic (6 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+flying (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+		fighting+ghost (1 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+	Weak (2x) against 1 Pokemons:
+		steel+water (1 Pokemons)
+	Strong (0.5x) against 165 Pokemons:
+		normal+fairy (5 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		poison+bug (13 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug (18 Pokemons)
+		bug+fairy (3 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 99 Pokemons:
+		normal+flying (27 Pokemons)
+		normal (67 Pokemons)
+		flying+poison (3 Pokemons)
+		flying (2 Pokemons)
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+rock+psychic: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 55 Pokemons:
+		fighting+dark (3 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+dark (3 Pokemons)
+		rock+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+dragon (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 101 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying (2 Pokemons)
+		poison (16 Pokemons)
+		poison+fire (3 Pokemons)
+		fire (31 Pokemons)
+		fire+psychic (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+rock+grass: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 45 Pokemons:
+		fighting+grass (3 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+dragon (3 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+dragon (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+rock+dragon: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 49 Pokemons:
+		fighting+steel (3 Pokemons)
+		ground+steel (5 Pokemons)
+		rock+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 51 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+electric (6 Pokemons)
+		flying (2 Pokemons)
+		poison+fire (3 Pokemons)
+		fire+electric (1 Pokemons)
+		electric+flying (0 Pokemons)
+	Very strong (0.25x) against 31 Pokemons:
+		fire (31 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+rock+ice: 2 Pokemons
+	Very weak (4x) against 116 Pokemons:
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+psychic (6 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+rock (1 Pokemons)
+		fighting+ice (1 Pokemons)
+		fighting+ghost (1 Pokemons)
+		flying+steel (2 Pokemons)
+		ground+steel (5 Pokemons)
+		rock+steel (7 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+dragon (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 49 Pokemons:
+		normal+flying (27 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+ice (2 Pokemons)
+		flying (2 Pokemons)
+		ice (15 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+rock+fairy: 3 Pokemons
+	Very weak (4x) against 62 Pokemons:
+		fighting+steel (3 Pokemons)
+		flying+steel (2 Pokemons)
+		ground+steel (5 Pokemons)
+		rock+steel (7 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+dragon (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+	Weak (2x) against 2 Pokemons:
+		poison+ground (2 Pokemons)
+	Strong (0.5x) against 143 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		normal+dragon (1 Pokemons)
+		normal+dark (3 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+dark (5 Pokemons)
+		flying (2 Pokemons)
+		bug (18 Pokemons)
+		bug+fire (2 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+dragon (3 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 12 Pokemons:
+		dragon (12 Pokemons)
+
+rock+electric: 3 Pokemons
+	Very weak (4x) against 76 Pokemons:
+		normal+ground (1 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+ice (3 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+	Weak (2x) against 9 Pokemons:
+		fighting+grass (3 Pokemons)
+		fighting+dragon (3 Pokemons)
+		steel+grass (3 Pokemons)
+	Strong (0.5x) against 80 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+electric (6 Pokemons)
+		poison+fire (3 Pokemons)
+		fire (31 Pokemons)
+		fire+electric (1 Pokemons)
+		electric+flying (0 Pokemons)
+	Very strong (0.25x) against 2 Pokemons:
+		flying (2 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+bug: 18 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 180 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+rock (1 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+water (7 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+electric (6 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+ground (4 Pokemons)
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		flying (2 Pokemons)
+		poison+fire (3 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+fire (4 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+dragon (3 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+		electric+flying (0 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 40 Pokemons:
+		ground+grass (1 Pokemons)
+		grass (39 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+bug+grass: 6 Pokemons
+	Very weak (4x) against 194 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+water (7 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+electric (6 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying+grass (7 Pokemons)
+		flying+dark (5 Pokemons)
+		flying+ground (4 Pokemons)
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		flying (2 Pokemons)
+		poison+fire (3 Pokemons)
+		ground+fire (4 Pokemons)
+		rock+fire (1 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+dragon (3 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+		electric+flying (0 Pokemons)
+	Weak (2x) against 54 Pokemons:
+		fighting+bug (4 Pokemons)
+		fighting+poison (2 Pokemons)
+		poison+bug (13 Pokemons)
+		poison (16 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+dragon (2 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+ghost (1 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+ice (2 Pokemons)
+	Strong (0.5x) against 87 Pokemons:
+		fighting+water (3 Pokemons)
+		ground+water (10 Pokemons)
+		ground+electric (1 Pokemons)
+		water (66 Pokemons)
+		water+electric (3 Pokemons)
+		water+grass (3 Pokemons)
+		grass+electric (1 Pokemons)
+	Very strong (0.25x) against 55 Pokemons:
+		ground (15 Pokemons)
+		ground+grass (1 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+bug+steel: 7 Pokemons
+	Very weak (4x) against 76 Pokemons:
+		normal+fire (2 Pokemons)
+		fighting+fire (7 Pokemons)
+		flying+fire (7 Pokemons)
+		poison+fire (3 Pokemons)
+		ground+fire (4 Pokemons)
+		rock+fire (1 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+dragon (3 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 124 Pokemons:
+		normal+fairy (5 Pokemons)
+		normal+psychic (3 Pokemons)
+		normal+grass (2 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+dragon (2 Pokemons)
+		psychic (41 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+ice (2 Pokemons)
+		psychic+dragon (5 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 54 Pokemons:
+		poison+grass (15 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+bug+water: 6 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 15 Pokemons:
+		flying+water (7 Pokemons)
+		flying+dragon (8 Pokemons)
+	Strong (0.5x) against 23 Pokemons:
+		ground (15 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+ice (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+bug+ghost: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 29 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+	Strong (0.5x) against 48 Pokemons:
+		normal+grass (2 Pokemons)
+		ground+grass (1 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 89 Pokemons:
+		normal (67 Pokemons)
+		fighting (22 Pokemons)
+
+bug+electric: 5 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 8 Pokemons:
+		ground+fire (4 Pokemons)
+		fire+dragon (3 Pokemons)
+		fire+electric (1 Pokemons)
+	Strong (0.5x) against 40 Pokemons:
+		grass (39 Pokemons)
+		grass+electric (1 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+bug+fire: 2 Pokemons
+	Very weak (4x) against 76 Pokemons:
+		fighting+rock (1 Pokemons)
+		flying+rock (18 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+rock (9 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		rock+electric (3 Pokemons)
+		rock+poison (0 Pokemons)
+	Weak (2x) against 38 Pokemons:
+		fighting+water (3 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+water (7 Pokemons)
+		flying+dragon (8 Pokemons)
+		poison+water (6 Pokemons)
+		ghost+water (2 Pokemons)
+		fire+water (1 Pokemons)
+		water+fairy (4 Pokemons)
+	Strong (0.5x) against 84 Pokemons:
+		fighting+bug (4 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+ice (1 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel (5 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Very strong (0.25x) against 39 Pokemons:
+		grass (39 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+bug+fairy: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 147 Pokemons:
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+steel (2 Pokemons)
+		poison+bug (13 Pokemons)
+		poison (16 Pokemons)
+		poison+ground (2 Pokemons)
+		poison+water (6 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+fire (3 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+fire (4 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+steel (7 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+ice (2 Pokemons)
+		fire (31 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 90 Pokemons:
+		fighting+bug (4 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+dark (3 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+dragon (2 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 25 Pokemons:
+		fighting (22 Pokemons)
+		fighting+dragon (3 Pokemons)
+	No effect (0x) against 12 Pokemons:
+		dragon (12 Pokemons)
+
+ghost: 10 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 56 Pokemons:
+		normal+dark (3 Pokemons)
+		fighting+dark (3 Pokemons)
+		flying+dark (5 Pokemons)
+		poison+dark (5 Pokemons)
+		ground+dark (3 Pokemons)
+		rock+dark (2 Pokemons)
+		steel+dark (2 Pokemons)
+		fire+dark (4 Pokemons)
+		water+dark (8 Pokemons)
+		grass+dark (3 Pokemons)
+		ice+dark (2 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+		dark+poison (0 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 22 Pokemons:
+		fighting (22 Pokemons)
+
+ghost+dark: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 5 Pokemons:
+		normal+fairy (5 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 139 Pokemons:
+		normal (67 Pokemons)
+		normal+psychic (3 Pokemons)
+		fighting (22 Pokemons)
+		fighting+psychic (6 Pokemons)
+		psychic (41 Pokemons)
+
+ghost+ice: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 18 Pokemons:
+		normal+fire (2 Pokemons)
+		steel+dark (2 Pokemons)
+		fire+dark (4 Pokemons)
+		water+dark (8 Pokemons)
+		ice+dark (2 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 93 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+
+ghost+electric: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 11 Pokemons:
+		normal+ground (1 Pokemons)
+		ground+dark (3 Pokemons)
+		grass+dark (3 Pokemons)
+		dragon+dark (4 Pokemons)
+	Strong (0.5x) against 49 Pokemons:
+		normal+flying (27 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+steel (2 Pokemons)
+		flying (2 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 93 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+
+ghost+dragon: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 7 Pokemons:
+		normal+fairy (5 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 93 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+
+ghost+water: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 17 Pokemons:
+		normal+grass (2 Pokemons)
+		water+dark (8 Pokemons)
+		grass+dark (3 Pokemons)
+		dragon+dark (4 Pokemons)
+	Strong (0.5x) against 46 Pokemons:
+		normal+fire (2 Pokemons)
+		fighting+fire (7 Pokemons)
+		poison+fire (3 Pokemons)
+		bug+fire (2 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 93 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+
+ghost+fire: 6 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 19 Pokemons:
+		normal+water (1 Pokemons)
+		rock+dark (2 Pokemons)
+		fire+dark (4 Pokemons)
+		water+dark (8 Pokemons)
+		dragon+dark (4 Pokemons)
+	Strong (0.5x) against 131 Pokemons:
+		normal+grass (2 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+ice (1 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+bug (13 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel (5 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		grass (39 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Very strong (0.25x) against 22 Pokemons:
+		fighting+bug (4 Pokemons)
+		bug (18 Pokemons)
+	No effect (0x) against 93 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+
+ghost+steel: 4 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 16 Pokemons:
+		normal+fire (2 Pokemons)
+		steel+dark (2 Pokemons)
+		fire+dark (4 Pokemons)
+		water+dark (8 Pokemons)
+	Strong (0.5x) against 188 Pokemons:
+		normal+fairy (5 Pokemons)
+		fighting+psychic (6 Pokemons)
+		fighting+rock (1 Pokemons)
+		fighting+ice (1 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+psychic (9 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		psychic (41 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+ice (2 Pokemons)
+		psychic+dragon (5 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 35 Pokemons:
+		fighting+bug (4 Pokemons)
+		poison+bug (13 Pokemons)
+		bug (18 Pokemons)
+	No effect (0x) against 111 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		fighting+poison (2 Pokemons)
+		poison (16 Pokemons)
+
+ghost+grass: 12 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 52 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+dark (5 Pokemons)
+		poison+dark (5 Pokemons)
+		steel+dark (2 Pokemons)
+		fire+dark (4 Pokemons)
+		grass+dark (3 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark+poison (0 Pokemons)
+	Strong (0.5x) against 100 Pokemons:
+		normal+water (1 Pokemons)
+		normal+ground (1 Pokemons)
+		fighting+water (3 Pokemons)
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+electric (1 Pokemons)
+		water (66 Pokemons)
+		water+electric (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 93 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+
+ghost+psychic: 3 Pokemons
+	Very weak (4x) against 62 Pokemons:
+		normal+dark (3 Pokemons)
+		fighting+dark (3 Pokemons)
+		flying+dark (5 Pokemons)
+		poison+dark (5 Pokemons)
+		ground+dark (3 Pokemons)
+		rock+dark (2 Pokemons)
+		ghost+dark (3 Pokemons)
+		steel+dark (2 Pokemons)
+		fire+dark (4 Pokemons)
+		water+dark (8 Pokemons)
+		grass+dark (3 Pokemons)
+		psychic+dark (3 Pokemons)
+		ice+dark (2 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+		dark+poison (0 Pokemons)
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 65 Pokemons:
+		fighting+psychic (6 Pokemons)
+		fighting+poison (2 Pokemons)
+		poison (16 Pokemons)
+		psychic (41 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 93 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+
+ghost+fairy: 4 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 22 Pokemons:
+		fighting+bug (4 Pokemons)
+		bug (18 Pokemons)
+	No effect (0x) against 109 Pokemons:
+		normal (67 Pokemons)
+		normal+fighting (4 Pokemons)
+		normal+dragon (1 Pokemons)
+		fighting (22 Pokemons)
+		fighting+dragon (3 Pokemons)
+		dragon (12 Pokemons)
+
+steel+electric: 5 Pokemons
+	Very weak (4x) against 64 Pokemons:
+		normal+ground (1 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+	Weak (2x) against 4 Pokemons:
+		fire+dragon (3 Pokemons)
+		fire+electric (1 Pokemons)
+	Strong (0.5x) against 163 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fairy (5 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 12 Pokemons:
+		flying+poison (3 Pokemons)
+		flying+steel (2 Pokemons)
+		flying (2 Pokemons)
+		steel (5 Pokemons)
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+steel+fairy: 5 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 66 Pokemons:
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		poison+fire (3 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+fire (4 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+	Strong (0.5x) against 165 Pokemons:
+		normal+fairy (5 Pokemons)
+		normal+dragon (1 Pokemons)
+		normal+dark (3 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+dark (5 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+dragon (2 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+ice (2 Pokemons)
+		psychic+dragon (5 Pokemons)
+		psychic+dark (3 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+dark (4 Pokemons)
+		dragon+fairy (1 Pokemons)
+		dark (12 Pokemons)
+		fairy (17 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 31 Pokemons:
+		poison+bug (13 Pokemons)
+		bug (18 Pokemons)
+	No effect (0x) against 30 Pokemons:
+		poison (16 Pokemons)
+		poison+dragon (2 Pokemons)
+		dragon (12 Pokemons)
+
+steel+psychic: 9 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 27 Pokemons:
+		ground+steel (5 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+dark (2 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		water+dark (8 Pokemons)
+	Strong (0.5x) against 127 Pokemons:
+		normal+fairy (5 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+fairy (2 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+dragon (2 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 41 Pokemons:
+		psychic (41 Pokemons)
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+steel: 5 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 97 Pokemons:
+		normal+fire (2 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+steel (3 Pokemons)
+		flying+fire (7 Pokemons)
+		poison+fire (3 Pokemons)
+		ground+water (10 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+electric (1 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+dragon (3 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+	Strong (0.5x) against 115 Pokemons:
+		normal+fairy (5 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+fairy (2 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+steel+water: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 9 Pokemons:
+		fighting+water (3 Pokemons)
+		water+electric (3 Pokemons)
+		grass+electric (1 Pokemons)
+		electric+dragon (2 Pokemons)
+	Strong (0.5x) against 97 Pokemons:
+		normal+fairy (5 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+fairy (2 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 22 Pokemons:
+		steel (5 Pokemons)
+		steel+ice (2 Pokemons)
+		ice (15 Pokemons)
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+steel+dragon: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 8 Pokemons:
+		fighting+steel (3 Pokemons)
+		ground+steel (5 Pokemons)
+	Strong (0.5x) against 42 Pokemons:
+		flying+rock (18 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+bug (5 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 54 Pokemons:
+		poison+grass (15 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+steel+fire: 1 Pokemons
+	Very weak (4x) against 56 Pokemons:
+		normal+ground (1 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+	Weak (2x) against 112 Pokemons:
+		normal+water (1 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+fire (7 Pokemons)
+		flying+water (7 Pokemons)
+		poison+water (6 Pokemons)
+		ghost+water (2 Pokemons)
+		fire+water (1 Pokemons)
+		water (66 Pokemons)
+		water+psychic (6 Pokemons)
+		water+electric (3 Pokemons)
+		water+dragon (2 Pokemons)
+		water+dark (8 Pokemons)
+	Strong (0.5x) against 59 Pokemons:
+		normal+fairy (5 Pokemons)
+		normal+grass (2 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+grass (7 Pokemons)
+		flying+steel (2 Pokemons)
+		steel+psychic (9 Pokemons)
+		grass+psychic (3 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice+dragon (3 Pokemons)
+		dragon+fairy (1 Pokemons)
+	Very strong (0.25x) against 157 Pokemons:
+		poison+grass (15 Pokemons)
+		poison+bug (13 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel (5 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		grass (39 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+steel+grass: 3 Pokemons
+	Very weak (4x) against 76 Pokemons:
+		normal+fire (2 Pokemons)
+		fighting+fire (7 Pokemons)
+		flying+fire (7 Pokemons)
+		poison+fire (3 Pokemons)
+		ground+fire (4 Pokemons)
+		rock+fire (1 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+dragon (3 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+	Weak (2x) against 3 Pokemons:
+		fighting+steel (3 Pokemons)
+	Strong (0.5x) against 152 Pokemons:
+		normal+fairy (5 Pokemons)
+		normal+water (1 Pokemons)
+		poison+rock (1 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		rock+electric (3 Pokemons)
+		water (66 Pokemons)
+		water+psychic (6 Pokemons)
+		water+electric (3 Pokemons)
+		water+fairy (4 Pokemons)
+		grass+fairy (5 Pokemons)
+		psychic+fairy (7 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 54 Pokemons:
+		poison+grass (15 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+steel+dark: 2 Pokemons
+	Very weak (4x) against 62 Pokemons:
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+psychic (6 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+flying (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+		fighting+ghost (1 Pokemons)
+	Weak (2x) against 4 Pokemons:
+		fire+dark (4 Pokemons)
+	Strong (0.5x) against 136 Pokemons:
+		normal+psychic (3 Pokemons)
+		flying+rock (18 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying+ghost (3 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+rock (1 Pokemons)
+		rock (14 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+grass (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+ice (2 Pokemons)
+		ghost (10 Pokemons)
+		ghost+ice (1 Pokemons)
+		ghost+dragon (2 Pokemons)
+		ghost+steel (4 Pokemons)
+		ghost+grass (12 Pokemons)
+		ghost+psychic (3 Pokemons)
+		steel+psychic (9 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass+ice (3 Pokemons)
+		psychic+ice (2 Pokemons)
+		psychic+dragon (5 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		ice+dragon (3 Pokemons)
+		rock+poison (0 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 57 Pokemons:
+		poison (16 Pokemons)
+		psychic (41 Pokemons)
+
+steel+ice: 2 Pokemons
+	Very weak (4x) against 124 Pokemons:
+		normal+fire (2 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+psychic (6 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+ghost (1 Pokemons)
+		flying+fire (7 Pokemons)
+		poison+fire (3 Pokemons)
+		ground+fire (4 Pokemons)
+		rock+fire (1 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+dragon (3 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+	Weak (2x) against 0 Pokemons:
+		None
+	Strong (0.5x) against 206 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fairy (5 Pokemons)
+		normal+grass (2 Pokemons)
+		normal+dragon (1 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying+grass (7 Pokemons)
+		flying (2 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+dragon (2 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+fairy (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+dragon (2 Pokemons)
+		psychic+fairy (7 Pokemons)
+		psychic+ice (2 Pokemons)
+		psychic+dragon (5 Pokemons)
+		ice+dragon (3 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon (12 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 15 Pokemons:
+		ice (15 Pokemons)
+	No effect (0x) against 16 Pokemons:
+		poison (16 Pokemons)
+
+fire: 31 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 199 Pokemons:
+		normal+water (1 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+rock (1 Pokemons)
+		flying+water (7 Pokemons)
+		flying+rock (18 Pokemons)
+		poison+water (6 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		rock+water (10 Pokemons)
+		rock (14 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+psychic (2 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		rock+electric (3 Pokemons)
+		ghost+water (2 Pokemons)
+		fire+water (1 Pokemons)
+		water (66 Pokemons)
+		water+psychic (6 Pokemons)
+		water+electric (3 Pokemons)
+		water+fairy (4 Pokemons)
+		water+dragon (2 Pokemons)
+		water+dark (8 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 112 Pokemons:
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel (5 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		grass (39 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+fire+dark: 4 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 31 Pokemons:
+		fighting+water (3 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+rock (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+		rock+dark (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		water+fairy (4 Pokemons)
+		water+dark (8 Pokemons)
+	Strong (0.5x) against 127 Pokemons:
+		ghost (10 Pokemons)
+		ghost+ice (1 Pokemons)
+		ghost+fire (6 Pokemons)
+		ghost+steel (4 Pokemons)
+		ghost+grass (12 Pokemons)
+		ghost+psychic (3 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		fire+psychic (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+ice (3 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
+fire+psychic: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 26 Pokemons:
+		rock+dark (2 Pokemons)
+		rock+psychic (2 Pokemons)
+		fire+dark (4 Pokemons)
+		water+psychic (6 Pokemons)
+		water+dark (8 Pokemons)
+		dragon+dark (4 Pokemons)
+	Strong (0.5x) against 128 Pokemons:
+		fighting (22 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+ice (1 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+fire+dragon: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 4 Pokemons:
+		rock+fairy (3 Pokemons)
+		dragon+fairy (1 Pokemons)
+	Strong (0.5x) against 50 Pokemons:
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+electric (5 Pokemons)
+		steel+electric (5 Pokemons)
+		steel (5 Pokemons)
+		steel+grass (3 Pokemons)
+		grass+electric (1 Pokemons)
+	Very strong (0.25x) against 70 Pokemons:
+		fire (31 Pokemons)
+		grass (39 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+fire+water: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 5 Pokemons:
+		water+electric (3 Pokemons)
+		electric+dragon (2 Pokemons)
+	Strong (0.5x) against 36 Pokemons:
+		bug (18 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		ice+fairy (1 Pokemons)
+	Very strong (0.25x) against 54 Pokemons:
+		steel (5 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+ice (2 Pokemons)
+		fire (31 Pokemons)
+		ice (15 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+fire+electric: 1 Pokemons
+	Very weak (4x) against 65 Pokemons:
+		normal+ground (1 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+	Weak (2x) against 5 Pokemons:
+		rock+dragon (2 Pokemons)
+		rock+electric (3 Pokemons)
+	Strong (0.5x) against 155 Pokemons:
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+grass (7 Pokemons)
+		flying+steel (2 Pokemons)
+		flying (2 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+electric (5 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		grass (39 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+electric (1 Pokemons)
+		electric+ice (1 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Very strong (0.25x) against 5 Pokemons:
+		steel (5 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+water: 66 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 112 Pokemons:
+		normal+grass (2 Pokemons)
+		fighting+grass (3 Pokemons)
+		flying+grass (7 Pokemons)
+		poison+grass (15 Pokemons)
+		bug+grass (6 Pokemons)
+		ghost+grass (12 Pokemons)
+		steel+grass (3 Pokemons)
+		water+electric (3 Pokemons)
+		water+grass (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+electric (1 Pokemons)
+		grass+dragon (2 Pokemons)
+		electric+dragon (2 Pokemons)
+	Strong (0.5x) against 32 Pokemons:
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+water+psychic: 6 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 21 Pokemons:
+		steel+grass (3 Pokemons)
+		water+dark (8 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass+dark (3 Pokemons)
+		dragon+dark (4 Pokemons)
+	Strong (0.5x) against 68 Pokemons:
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+ice (1 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+psychic (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+water+ice: 6 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 6 Pokemons:
+		fighting+water (3 Pokemons)
+		water+electric (3 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 15 Pokemons:
+		ice (15 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+water+electric: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 97 Pokemons:
+		normal+grass (2 Pokemons)
+		fighting+grass (3 Pokemons)
+		poison+grass (15 Pokemons)
+		bug+grass (6 Pokemons)
+		ghost+grass (12 Pokemons)
+		steel+grass (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+ice (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		grass+electric (1 Pokemons)
+		grass+dragon (2 Pokemons)
+	Strong (0.5x) against 126 Pokemons:
+		flying+fire (7 Pokemons)
+		flying+water (7 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+steel (2 Pokemons)
+		flying (2 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+water (1 Pokemons)
+		water (66 Pokemons)
+		water+ice (6 Pokemons)
+	Very strong (0.25x) against 5 Pokemons:
+		steel (5 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+water+fairy: 4 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 24 Pokemons:
+		poison+grass (15 Pokemons)
+		poison+water (6 Pokemons)
+		steel+grass (3 Pokemons)
+	Strong (0.5x) against 111 Pokemons:
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+ice (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+		bug+fire (2 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		water+dragon (2 Pokemons)
+		water+dark (8 Pokemons)
+		ice+dark (2 Pokemons)
+		ice+dragon (3 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 12 Pokemons:
+		dragon (12 Pokemons)
+
+water+dragon: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 10 Pokemons:
+		water+fairy (4 Pokemons)
+		grass+fairy (5 Pokemons)
+		dragon+fairy (1 Pokemons)
+	Strong (0.5x) against 1 Pokemons:
+		steel+fire (1 Pokemons)
+	Very strong (0.25x) against 98 Pokemons:
+		fire (31 Pokemons)
+		fire+water (1 Pokemons)
+		water (66 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+water+grass: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 38 Pokemons:
+		flying+dragon (8 Pokemons)
+		flying+grass (7 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+dragon (2 Pokemons)
+		bug+grass (6 Pokemons)
+	Strong (0.5x) against 30 Pokemons:
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+steel (5 Pokemons)
+	Very strong (0.25x) against 66 Pokemons:
+		water (66 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+water+dark: 8 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 22 Pokemons:
+		fighting+water (3 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+dragon (3 Pokemons)
+		water+fairy (4 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+fairy (5 Pokemons)
+		dragon+fairy (1 Pokemons)
+	Strong (0.5x) against 82 Pokemons:
+		ghost (10 Pokemons)
+		ghost+ice (1 Pokemons)
+		ghost+water (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		ghost+steel (4 Pokemons)
+		ghost+psychic (3 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		water+psychic (6 Pokemons)
+		psychic+ice (2 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
+grass+psychic: 3 Pokemons
+	Very weak (4x) against 69 Pokemons:
+		flying+bug (14 Pokemons)
+		ground+bug (2 Pokemons)
+		rock+bug (5 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+water (6 Pokemons)
+		bug+ghost (1 Pokemons)
+		bug+electric (5 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+	Weak (2x) against 42 Pokemons:
+		flying+psychic (7 Pokemons)
+		flying+dark (5 Pokemons)
+		flying+steel (2 Pokemons)
+		poison+dark (5 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		grass+dark (3 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark+poison (0 Pokemons)
+	Strong (0.5x) against 131 Pokemons:
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+grass (3 Pokemons)
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+electric (1 Pokemons)
+		water (66 Pokemons)
+		water+psychic (6 Pokemons)
+		water+electric (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+grass: 39 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 268 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fire (2 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+ice (2 Pokemons)
+		flying+electric (6 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying+grass (7 Pokemons)
+		flying+dark (5 Pokemons)
+		flying+steel (2 Pokemons)
+		flying+ghost (3 Pokemons)
+		flying (2 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+bug (13 Pokemons)
+		poison (16 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+dark (5 Pokemons)
+		poison+dragon (2 Pokemons)
+		poison+fire (3 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+ghost (1 Pokemons)
+		bug+electric (5 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+ice (2 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+dragon (3 Pokemons)
+		fire+electric (1 Pokemons)
+		grass+ice (3 Pokemons)
+		ice+dragon (3 Pokemons)
+		electric+flying (0 Pokemons)
+		dark+poison (0 Pokemons)
+	Strong (0.5x) against 95 Pokemons:
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+electric (1 Pokemons)
+		water (66 Pokemons)
+		water+electric (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+grass+dark: 3 Pokemons
+	Very weak (4x) against 85 Pokemons:
+		fighting+bug (4 Pokemons)
+		flying+bug (14 Pokemons)
+		poison+bug (13 Pokemons)
+		ground+bug (2 Pokemons)
+		rock+bug (5 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+water (6 Pokemons)
+		bug+electric (5 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+	Weak (2x) against 46 Pokemons:
+		fighting+fire (7 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+flying (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying+dark (5 Pokemons)
+		poison+dark (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		fire+dark (4 Pokemons)
+		grass+fairy (5 Pokemons)
+		dragon+fairy (1 Pokemons)
+		dark+poison (0 Pokemons)
+	Strong (0.5x) against 150 Pokemons:
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+		ghost (10 Pokemons)
+		ghost+electric (1 Pokemons)
+		ghost+water (2 Pokemons)
+		ghost+grass (12 Pokemons)
+		ghost+psychic (3 Pokemons)
+		water (66 Pokemons)
+		water+psychic (6 Pokemons)
+		water+electric (3 Pokemons)
+		water+dark (8 Pokemons)
+		grass+psychic (3 Pokemons)
+		electric+psychic (1 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
+grass+ice: 3 Pokemons
+	Very weak (4x) against 76 Pokemons:
+		normal+fire (2 Pokemons)
+		fighting+fire (7 Pokemons)
+		flying+fire (7 Pokemons)
+		poison+fire (3 Pokemons)
+		ground+fire (4 Pokemons)
+		rock+fire (1 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		steel+fire (1 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+dragon (3 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+	Weak (2x) against 42 Pokemons:
+		fighting+steel (3 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+	Strong (0.5x) against 136 Pokemons:
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+electric (1 Pokemons)
+		water (66 Pokemons)
+		water+electric (3 Pokemons)
+		grass (39 Pokemons)
+		grass+electric (1 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+grass+fairy: 5 Pokemons
+	Very weak (4x) against 72 Pokemons:
+		fighting+poison (2 Pokemons)
+		flying+poison (3 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+bug (13 Pokemons)
+		poison (16 Pokemons)
+		poison+ground (2 Pokemons)
+		poison+water (6 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+dark (5 Pokemons)
+		poison+dragon (2 Pokemons)
+		poison+fire (3 Pokemons)
+		poison+rock (1 Pokemons)
+		rock+poison (0 Pokemons)
+		dark+poison (0 Pokemons)
+	Weak (2x) against 95 Pokemons:
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+steel (2 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		fire (31 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+electric (1 Pokemons)
+	Strong (0.5x) against 175 Pokemons:
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+dragon (3 Pokemons)
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		water (66 Pokemons)
+		water+electric (3 Pokemons)
+		water+dragon (2 Pokemons)
+		water+dark (8 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+dragon (2 Pokemons)
+		electric+dragon (2 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 12 Pokemons:
+		dragon (12 Pokemons)
+
+grass+electric: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 38 Pokemons:
+		poison+grass (15 Pokemons)
+		poison+dragon (2 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+electric (5 Pokemons)
+		fire+dragon (3 Pokemons)
+		fire+electric (1 Pokemons)
+		grass+ice (3 Pokemons)
+		ice+dragon (3 Pokemons)
+	Strong (0.5x) against 70 Pokemons:
+		steel+water (1 Pokemons)
+		water (66 Pokemons)
+		water+electric (3 Pokemons)
+	Very strong (0.25x) against 42 Pokemons:
+		electric (42 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+grass+dragon: 2 Pokemons
+	Very weak (4x) against 30 Pokemons:
+		fighting+ice (1 Pokemons)
+		flying+ice (2 Pokemons)
+		ghost+ice (1 Pokemons)
+		steel+ice (2 Pokemons)
+		grass+ice (3 Pokemons)
+		electric+ice (1 Pokemons)
+		psychic+ice (2 Pokemons)
+		ice+dark (2 Pokemons)
+		ice (15 Pokemons)
+		ice+fairy (1 Pokemons)
+	Weak (2x) against 25 Pokemons:
+		flying+fairy (2 Pokemons)
+		flying+steel (2 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		grass+fairy (5 Pokemons)
+		dragon+fairy (1 Pokemons)
+	Strong (0.5x) against 26 Pokemons:
+		ground (15 Pokemons)
+		ground+water (10 Pokemons)
+		ground+electric (1 Pokemons)
+	Very strong (0.25x) against 154 Pokemons:
+		water (66 Pokemons)
+		water+electric (3 Pokemons)
+		water+grass (3 Pokemons)
+		grass (39 Pokemons)
+		grass+electric (1 Pokemons)
+		electric (42 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+electric: 42 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 76 Pokemons:
+		normal+ground (1 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+ice (3 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+	Strong (0.5x) against 4 Pokemons:
+		flying+steel (2 Pokemons)
+		flying (2 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+electric+dragon: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 13 Pokemons:
+		ground+steel (5 Pokemons)
+		grass+fairy (5 Pokemons)
+		electric+fairy (2 Pokemons)
+		dragon+fairy (1 Pokemons)
+	Strong (0.5x) against 86 Pokemons:
+		flying+fire (7 Pokemons)
+		flying+water (7 Pokemons)
+		flying+steel (2 Pokemons)
+		flying (2 Pokemons)
+		steel+water (1 Pokemons)
+		fire+water (1 Pokemons)
+		water (66 Pokemons)
+	Very strong (0.25x) against 42 Pokemons:
+		electric (42 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+electric+fairy: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 26 Pokemons:
+		poison+grass (15 Pokemons)
+		poison+ground (2 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+fire (4 Pokemons)
+	Strong (0.5x) against 80 Pokemons:
+		fighting (22 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+flying (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+dragon (8 Pokemons)
+		flying+dark (5 Pokemons)
+		flying (2 Pokemons)
+		electric+dragon (2 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 12 Pokemons:
+		dragon (12 Pokemons)
+
+electric+ice: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 1 Pokemons:
+		fire+electric (1 Pokemons)
+	Strong (0.5x) against 10 Pokemons:
+		flying+ice (2 Pokemons)
+		flying+electric (6 Pokemons)
+		flying (2 Pokemons)
+		electric+flying (0 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+electric+psychic: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 17 Pokemons:
+		ground+steel (5 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+dark (3 Pokemons)
+		grass+dark (3 Pokemons)
+		dragon+dark (4 Pokemons)
+	Strong (0.5x) against 34 Pokemons:
+		fighting (22 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+psychic (7 Pokemons)
+		flying+steel (2 Pokemons)
+		flying (2 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+psychic: 41 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 76 Pokemons:
+		normal+dark (3 Pokemons)
+		fighting+dark (3 Pokemons)
+		flying+dark (5 Pokemons)
+		poison+dark (5 Pokemons)
+		ground+dark (3 Pokemons)
+		rock+dark (2 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+dark (3 Pokemons)
+		ghost+steel (4 Pokemons)
+		ghost+psychic (3 Pokemons)
+		steel+dark (2 Pokemons)
+		fire+dark (4 Pokemons)
+		water+dark (8 Pokemons)
+		grass+dark (3 Pokemons)
+		psychic+dark (3 Pokemons)
+		ice+dark (2 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+		dark+poison (0 Pokemons)
+	Strong (0.5x) against 22 Pokemons:
+		fighting (22 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+psychic+fairy: 7 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 56 Pokemons:
+		flying+steel (2 Pokemons)
+		ground+steel (5 Pokemons)
+		rock+steel (7 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+	Strong (0.5x) against 11 Pokemons:
+		fighting+psychic (6 Pokemons)
+		psychic+dragon (5 Pokemons)
+	Very strong (0.25x) against 25 Pokemons:
+		fighting (22 Pokemons)
+		fighting+dragon (3 Pokemons)
+	No effect (0x) against 12 Pokemons:
+		dragon (12 Pokemons)
+
+psychic+ice: 2 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 65 Pokemons:
+		rock+steel (7 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		water+dark (8 Pokemons)
+		ice+dark (2 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+psychic+dragon: 5 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 27 Pokemons:
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		psychic+fairy (7 Pokemons)
+	Strong (0.5x) against 35 Pokemons:
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+grass (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+psychic+dark: 3 Pokemons
+	Very weak (4x) against 68 Pokemons:
+		flying+bug (14 Pokemons)
+		ground+bug (2 Pokemons)
+		rock+bug (5 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+water (6 Pokemons)
+		bug+electric (5 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+	Weak (2x) against 5 Pokemons:
+		steel+fairy (5 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
+ice+dark: 2 Pokemons
+	Very weak (4x) against 57 Pokemons:
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+psychic (6 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+rock (1 Pokemons)
+		fighting+ice (1 Pokemons)
+		fighting+ghost (1 Pokemons)
+	Weak (2x) against 16 Pokemons:
+		steel+fairy (5 Pokemons)
+		steel+dark (2 Pokemons)
+		fire+dark (4 Pokemons)
+		water+fairy (4 Pokemons)
+		ice+fairy (1 Pokemons)
+	Strong (0.5x) against 16 Pokemons:
+		ghost (10 Pokemons)
+		ghost+ice (1 Pokemons)
+		ghost+psychic (3 Pokemons)
+		psychic+ice (2 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
+ice: 15 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 128 Pokemons:
+		normal+fire (2 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+ice (1 Pokemons)
+		poison+fire (3 Pokemons)
+		rock+water (10 Pokemons)
+		rock+fire (1 Pokemons)
+		rock+steel (7 Pokemons)
+		rock+ice (2 Pokemons)
+		bug+steel (7 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		fire (31 Pokemons)
+		fire+dark (4 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+ice+dragon: 3 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 56 Pokemons:
+		fighting+steel (3 Pokemons)
+		rock+steel (7 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+		water+fairy (4 Pokemons)
+		ice+fairy (1 Pokemons)
+	Strong (0.5x) against 40 Pokemons:
+		grass (39 Pokemons)
+		grass+electric (1 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+ice+fairy: 1 Pokemons
+	Very weak (4x) against 62 Pokemons:
+		fighting+steel (3 Pokemons)
+		flying+steel (2 Pokemons)
+		ground+steel (5 Pokemons)
+		rock+steel (7 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+dragon (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+		steel+ice (2 Pokemons)
+	Weak (2x) against 56 Pokemons:
+		normal+fire (2 Pokemons)
+		poison+water (6 Pokemons)
+		poison+fire (3 Pokemons)
+		rock+fire (1 Pokemons)
+		bug+fire (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		fire (31 Pokemons)
+		fire+psychic (3 Pokemons)
+		fire+water (1 Pokemons)
+		fire+electric (1 Pokemons)
+	Strong (0.5x) against 21 Pokemons:
+		ice+dark (2 Pokemons)
+		ice+dragon (3 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 12 Pokemons:
+		dragon (12 Pokemons)
+
+dragon: 12 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 61 Pokemons:
+		normal+fairy (5 Pokemons)
+		flying+fairy (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		ghost+fairy (4 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+ice (2 Pokemons)
+		water+fairy (4 Pokemons)
+		grass+fairy (5 Pokemons)
+		electric+fairy (2 Pokemons)
+		psychic+fairy (7 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Strong (0.5x) against 0 Pokemons:
+		None
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 0 Pokemons:
+		None
+
+dragon+dark: 4 Pokemons
+	Very weak (4x) against 59 Pokemons:
+		normal+fairy (5 Pokemons)
+		flying+fairy (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		ghost+fairy (4 Pokemons)
+		steel+fairy (5 Pokemons)
+		water+fairy (4 Pokemons)
+		grass+fairy (5 Pokemons)
+		electric+fairy (2 Pokemons)
+		psychic+fairy (7 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Weak (2x) against 3 Pokemons:
+		fighting+steel (3 Pokemons)
+	Strong (0.5x) against 47 Pokemons:
+		ghost (10 Pokemons)
+		ghost+electric (1 Pokemons)
+		ghost+water (2 Pokemons)
+		ghost+fire (6 Pokemons)
+		ghost+grass (12 Pokemons)
+		ghost+psychic (3 Pokemons)
+		fire+psychic (3 Pokemons)
+		water+psychic (6 Pokemons)
+		grass+psychic (3 Pokemons)
+		electric+psychic (1 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
+dragon+fairy: 1 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 56 Pokemons:
+		flying+steel (2 Pokemons)
+		ground+steel (5 Pokemons)
+		rock+steel (7 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+	Strong (0.5x) against 74 Pokemons:
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+dragon (3 Pokemons)
+		fire+dragon (3 Pokemons)
+		water+dragon (2 Pokemons)
+		water+dark (8 Pokemons)
+		grass+dark (3 Pokemons)
+		grass+dragon (2 Pokemons)
+		electric+dragon (2 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 12 Pokemons:
+		dragon (12 Pokemons)
+
+dark: 12 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 105 Pokemons:
+		normal+fairy (5 Pokemons)
+		normal+fighting (4 Pokemons)
+		fighting (22 Pokemons)
+		fighting+water (3 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+fire (7 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+steel (3 Pokemons)
+		fighting+poison (2 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+rock (1 Pokemons)
+		fighting+flying (1 Pokemons)
+		fighting+ice (1 Pokemons)
+		fighting+dragon (3 Pokemons)
+		flying+fairy (2 Pokemons)
+		rock+fairy (3 Pokemons)
+		bug+fairy (3 Pokemons)
+		steel+fairy (5 Pokemons)
+		water+fairy (4 Pokemons)
+		grass+fairy (5 Pokemons)
+		electric+fairy (2 Pokemons)
+		ice+fairy (1 Pokemons)
+		dragon+fairy (1 Pokemons)
+		fairy (17 Pokemons)
+	Strong (0.5x) against 13 Pokemons:
+		ghost (10 Pokemons)
+		ghost+psychic (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
+fairy: 17 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 119 Pokemons:
+		flying+poison (3 Pokemons)
+		flying+steel (2 Pokemons)
+		poison+grass (15 Pokemons)
+		poison+bug (13 Pokemons)
+		poison (16 Pokemons)
+		poison+ground (2 Pokemons)
+		poison+water (6 Pokemons)
+		poison+ghost (4 Pokemons)
+		poison+fire (3 Pokemons)
+		poison+rock (1 Pokemons)
+		ground+steel (5 Pokemons)
+		rock+steel (7 Pokemons)
+		bug+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+fire (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+ice (2 Pokemons)
+		rock+poison (0 Pokemons)
+	Strong (0.5x) against 48 Pokemons:
+		fighting (22 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+dark (3 Pokemons)
+		fighting+dragon (3 Pokemons)
+		dragon+dark (4 Pokemons)
+		dark (12 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 12 Pokemons:
+		dragon (12 Pokemons)
+
+electric+flying: 0 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 15 Pokemons:
+		ground+rock (9 Pokemons)
+		rock+dragon (2 Pokemons)
+		rock+electric (3 Pokemons)
+		electric+ice (1 Pokemons)
+	Strong (0.5x) against 121 Pokemons:
+		fighting (22 Pokemons)
+		fighting+bug (4 Pokemons)
+		fighting+grass (3 Pokemons)
+		fighting+flying (1 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+grass (7 Pokemons)
+		flying+steel (2 Pokemons)
+		flying (2 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+grass (1 Pokemons)
+		bug (18 Pokemons)
+		bug+grass (6 Pokemons)
+		grass (39 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 15 Pokemons:
+		ground (15 Pokemons)
+
+rock+poison: 0 Pokemons
+	Very weak (4x) against 76 Pokemons:
+		normal+ground (1 Pokemons)
+		flying+ground (4 Pokemons)
+		poison+ground (2 Pokemons)
+		ground (15 Pokemons)
+		ground+rock (9 Pokemons)
+		ground+water (10 Pokemons)
+		ground+steel (5 Pokemons)
+		ground+ice (3 Pokemons)
+		ground+bug (2 Pokemons)
+		ground+fire (4 Pokemons)
+		ground+dragon (10 Pokemons)
+		ground+psychic (2 Pokemons)
+		ground+grass (1 Pokemons)
+		ground+dark (3 Pokemons)
+		ground+electric (1 Pokemons)
+		ground+ghost (4 Pokemons)
+	Weak (2x) against 45 Pokemons:
+		fighting+steel (3 Pokemons)
+		rock+steel (7 Pokemons)
+		ghost+steel (4 Pokemons)
+		steel+electric (5 Pokemons)
+		steel+fairy (5 Pokemons)
+		steel+psychic (9 Pokemons)
+		steel (5 Pokemons)
+		steel+water (1 Pokemons)
+		steel+dragon (1 Pokemons)
+		steel+grass (3 Pokemons)
+		steel+dark (2 Pokemons)
+	Strong (0.5x) against 149 Pokemons:
+		normal+flying (27 Pokemons)
+		normal+fairy (5 Pokemons)
+		normal+fire (2 Pokemons)
+		flying+fire (7 Pokemons)
+		flying+bug (14 Pokemons)
+		flying+poison (3 Pokemons)
+		flying+fairy (2 Pokemons)
+		flying (2 Pokemons)
+		poison+bug (13 Pokemons)
+		poison+fire (3 Pokemons)
+		bug (18 Pokemons)
+		bug+fire (2 Pokemons)
+		bug+fairy (3 Pokemons)
+		fire (31 Pokemons)
+		fairy (17 Pokemons)
+	Very strong (0.25x) against 16 Pokemons:
+		poison (16 Pokemons)
+	No effect (0x) against 0 Pokemons:
+		None
+
+dark+poison: 0 Pokemons
+	Very weak (4x) against 0 Pokemons:
+		None
+	Weak (2x) against 3 Pokemons:
+		ground+dark (3 Pokemons)
+	Strong (0.5x) against 74 Pokemons:
+		poison+ghost (4 Pokemons)
+		ghost (10 Pokemons)
+		ghost+grass (12 Pokemons)
+		ghost+psychic (3 Pokemons)
+		grass+psychic (3 Pokemons)
+		grass (39 Pokemons)
+		grass+dark (3 Pokemons)
+	Very strong (0.25x) against 0 Pokemons:
+		None
+	No effect (0x) against 41 Pokemons:
+		psychic (41 Pokemons)
+
